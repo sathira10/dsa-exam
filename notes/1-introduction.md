@@ -5,7 +5,7 @@ A data structure is a structure used to organize & store a collection of one or 
 ## Aspects of a Data Structure
 1. Definition
 2. Operations (API)
-3. Storage (Internal Representation)
+3. Representation (Storage)
 
 ## Classification
 
